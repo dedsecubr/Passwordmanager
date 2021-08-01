@@ -1,4 +1,4 @@
-<h1 align="center"> Dedsecurity Framework</h1>
+<h1 align="center">Password Manager</h1>
 
 ## Password Manager.
 
