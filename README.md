@@ -17,11 +17,11 @@ Make sure you have installed the dependencies:
 
 Clone the [source] with `git`:
  ```sh
-   git clone https://github.com/dedsecubr/Passwordmanager
+   git clone https://github.com/dedsecurity/Passwordmanager
    cd Passwordmanager
    ```
 
- [source]: https://github.com/dedsecubr/Passwordmanager
+ [source]: https://github.com/dedsecurity/Passwordmanager
  
  ## Contributing
 Feel free to submitting pull requests to us.
